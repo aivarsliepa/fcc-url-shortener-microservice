@@ -1,0 +1,21 @@
+{
+  "name": "fcc-timestamp-microservice-challenge",
+  "description": "FreeCodeCamp Timestamp Microservice API challenge",
+  "licence": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11",
+    "url-exists": "^1.0.3"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aivarsliepa/fcc-url-shortener-microservice.git"
+  }
+}
